@@ -25,4 +25,5 @@ Download zipped files; unzip files on local computer; place files on Matlab path
 15. Select export option (Matlab or Excel) from Export Options
 
 email questions, errors, bugs, suggestions for improvement or features requests to:
-     john (dot) arthur (dot) thompson (at) gmail (dot) com
+
+john (dot) arthur (dot) thompson (at) gmail (dot) com
