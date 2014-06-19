@@ -23,3 +23,6 @@ Download zipped files; unzip files on local computer; place files on Matlab path
 13. GUI will display values for pixel number in side data table
 14. When user has completed the series the GUI will prompt the user to export the data
 15. Select export option (Matlab or Excel) from Export Options
+
+email questions, errors, bugs, suggestions for improvement or features requests to:
+     john (dot) arthur (dot) thompson (at) gmail (dot) com
